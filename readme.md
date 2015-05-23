@@ -53,3 +53,11 @@ Zwykly tekst
 Mozemy wyrozniac elementy, na przyklad kodu, stosujac ` po obu stronach kodu. Przyklad:
 
 Powinienes wstawic `</p>` na koncu tej linii.
+
+----------------------------------------
+
+W Markdown mozemy tworzyc tabele. Tekst w kolumnach oddzielamy znakiem | a pomiedzy pierwszym a drugim wierszem musimy postawic kilka znakow - oddzielone znakiem |. Przyklad:
+
+Kolumna 1 | Kolumna 2
+-----|------
+Przykladowy tekst | Inny tekst
