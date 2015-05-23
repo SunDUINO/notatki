@@ -14,3 +14,11 @@ Zwykly tekst
 *Tekst pochylony*
 **Tekst pogrubiony**
 *Pomieszane __rodzaje__ tekstu*
+
+----------------------------------------
+
+W Markdown mozemy tworzyc listy uporzadkowane i nieuprzadkowane. Nieuprzadkowane korzystaja z "*" a uprzadkowane z numerow i kropek "1." oraz "*". Przyklad:
+
+* banan
+* jablko
+  * pomarancza
