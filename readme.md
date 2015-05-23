@@ -64,6 +64,6 @@ Przykladowy tekst | Inny tekst
 
 ----------------------------------------
 
-Mozemy umieszczac emotikony. Wpisujemy nazwe emotki pomiedzy dwoma znakami:. Przyklad:
+Mozemy umieszczac emotikony. Wpisujemy nazwe emotki pomiedzy dwoma znakami :. Przyklad:
 
 :smile: :laughing:
