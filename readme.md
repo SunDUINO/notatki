@@ -61,3 +61,9 @@ W Markdown mozemy tworzyc tabele. Tekst w kolumnach oddzielamy znakiem | a pomie
 Kolumna 1 | Kolumna 2
 -----|------
 Przykladowy tekst | Inny tekst
+
+----------------------------------------
+
+Mozemy umieszczac emotikony. Wpisujemy nazwe emotki pomiedzy dwoma znakami:. Przyklad:
+
+:smile: :laughing:
