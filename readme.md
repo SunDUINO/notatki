@@ -8,7 +8,7 @@ Zwykly tekst.
 
 ----------------------------------------
 
-Kursywe uzyskujemy dzieki "*" lub "_", a pogrubienie dzieki "**" lub "__" umieszczonym przed i za zdaniem. Przyklad:
+Kursywe uzyskujemy dzieki "gwiazdce" lub "podlodze", a pogrubienie dzieki "dwom gwiazdkom" lub "dwom podlogom" umieszczonym przed i za zdaniem. Przyklad:
 
 Zwykly tekst
 *Tekst pochylony*
@@ -17,7 +17,7 @@ Zwykly tekst
 
 ----------------------------------------
 
-W Markdown mozemy tworzyc listy uporzadkowane i nieuprzadkowane. Nieuprzadkowane korzystaja z "*" a uprzadkowane z numerow i kropek "1." oraz "*". Przyklad:
+W Markdown mozemy tworzyc listy uporzadkowane i nieuprzadkowane. Nieuprzadkowane korzystaja z "gwiazdek" a uprzadkowane z numerow i kropek "1." oraz "gwiazdek". Przyklad:
 
 * banan
 * jablko
