@@ -1,4 +1,6 @@
-Przykladowe mozliwosci Markdown.
+# Przykladowe mozliwosci Markdown.
+
+----------------------------------------
 
 Naglowek tworzymy znaczkiem "#". Im wiecej "#" tym wiekszego rzedu jest naglowek. Przyklad:
 
