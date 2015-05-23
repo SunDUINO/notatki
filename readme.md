@@ -13,4 +13,4 @@ Kursywe uzyskujemy dzieki "*" lub "_", a pogrubienie dzieki "**" lub "__" umiesz
 Zwykly tekst. 
 *Tekst pochylony.*
 **Tekst pogrubiony.**
-*Pomieszane **rodzaje** wyroznienia **tekstu.***
+*Pomieszane **rodzaje** tekstu.*
