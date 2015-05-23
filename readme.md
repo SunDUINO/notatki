@@ -37,4 +37,4 @@ Zeby dodac obrazek musimy podac link do niego, a skladnia wyglada tak: wykrzykni
 
 Link robimy analogicznie do obrazka, z tym, ze bez znaku wykrzyknika. Sam link tworzy sie automatycznie. Przyklad:
 
-www.google.pl ; [Google](www.google.pl)
+www.google.pl ; [Google](https://www.google.pl/)
