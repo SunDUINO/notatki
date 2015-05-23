@@ -11,6 +11,6 @@ Zwykly tekst.
 Kursywe uzyskujemy dzieki "*", a pogrubienie dzieki "**" umieszczonym przed i za zdaniem. Przyklad:
 
 Zwykly tekst. 
-* Tekst pochylony.*
-** Tekst pogrubiony.*
-* Pomieszane **rodzaje** wyroznienia **tekstu.***
+*Tekst pochylony.*
+**Tekst pogrubiony.*
+*Pomieszane **rodzaje** wyroznienia **tekstu.***
