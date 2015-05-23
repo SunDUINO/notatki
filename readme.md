@@ -22,3 +22,7 @@ W Markdown mozemy tworzyc listy uporzadkowane i nieuprzadkowane. Nieuprzadkowane
 * banan
 * jablko
   * pomarancza
+
+1. banan
+2. jablko
+ * pomarancza
