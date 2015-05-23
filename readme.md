@@ -29,6 +29,6 @@ W Markdown mozemy tworzyc listy uporzadkowane i nieuprzadkowane. Nieuprzadkowane
 
 ----------------------------------------
 
-Zeby dodac obrazek musimy podac link do niego, a skladnia wyglada tak: wykrzyknik[tekst](link). Przyklad:
+Zeby dodac obrazek musimy podac link do niego, a skladnia wyglada tak: wykrzyknik, tekst w nawiasie kwadratowym, link w nawiasie okraglym. Przyklad:
 
 ![Logo windows](http://upload.wikimedia.org/wikipedia/pt/e/e1/Logo_Windows_Media_Center-pt.PNG)
