@@ -8,9 +8,9 @@ Zwykly tekst.
 
 ----------------------------------------
 
-Kursywe uzyskujemy dzieki "*", a pogrubienie dzieki "**" umieszczonym przed i za zdaniem. Przyklad:
+Kursywe uzyskujemy dzieki "*" lub "_", a pogrubienie dzieki "**" lub "__" umieszczonym przed i za zdaniem. Przyklad:
 
 Zwykly tekst. 
 *Tekst pochylony.*
-**Tekst pogrubiony.*
+**Tekst pogrubiony.**
 *Pomieszane **rodzaje** wyroznienia **tekstu.***
