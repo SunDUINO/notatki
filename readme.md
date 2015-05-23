@@ -8,7 +8,7 @@ Zwykly tekst.
 
 ----------------------------------------
 
-Kursywe uzyskujemy dzieki * lub _, a pogrubienie dzieki **lub __ umieszczonym przed i za zdaniem. Przyklad:
+Kursywe uzyskujemy dzieki gwiazdce lub podkreslnikowi, a pogrubienie dzieki dwom gwiazdkom lub podkreslnikom umieszczonym przed i za zdaniem. Przyklad:
 
 Zwykly tekst
 *Tekst pochylony*
