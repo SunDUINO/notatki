@@ -8,7 +8,7 @@ Zwykly tekst.
 
 ----------------------------------------
 
-Kursywe uzyskujemy dzieki * lub _, a pogrubienie dzieki ** lub __ umieszczonym przed i za zdaniem. Przyklad:
+Kursywe uzyskujemy dzieki * lub _, a pogrubienie dzieki **lub __ umieszczonym przed i za zdaniem. Przyklad:
 
 Zwykly tekst
 *Tekst pochylony*
