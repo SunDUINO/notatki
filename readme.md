@@ -50,6 +50,6 @@ Zwykly tekst
 
 ----------------------------------------
 
-Mozemy wyrozniac elementy, na przyklad kodu, stosujac ' po obu stronach kodu. Przyklad:
+Mozemy wyrozniac elementy, na przyklad kodu, stosujac ` po obu stronach kodu. Przyklad:
 
-Powinienes wstawic '</p>' na koncu tej linii.
+Powinienes wstawic `</p>` na koncu tej linii.
