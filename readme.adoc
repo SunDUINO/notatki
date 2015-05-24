@@ -4,3 +4,7 @@ Naglowek tworzymy znakiem i musi byc on na poczatku dokumentu. Przyklad powyzej.
 
 -------------------------------
 
+W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Na przyklad:
+
+WARNING: Ostrzezenie +
+TIP: Wskazowka
