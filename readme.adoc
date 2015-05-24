@@ -1,3 +1,6 @@
 = Przykladowe mozliwosci AsciiDoc
-== Przykladowe mozliwosci AsciiDoc
 
+Naglowek tworzymy znakiem =. Przyklad:
+
+Zwykly tekst
+= Naglowek
