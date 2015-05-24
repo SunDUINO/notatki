@@ -14,6 +14,11 @@ https://www.google.pl/[Google]
 ==== Jezeli zdanie poprzedzimy spacja, to zostanie ono wyroznione. Przyklad:
 
  To zdanie jest poprzedzone spacja.
+ 
+ ==== Mozemy tworzyc punktory z pomoca gwiazdki. Przyklad:
+ 
+ * banan
+ * jablko
 
 ==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Na przyklad:
 
