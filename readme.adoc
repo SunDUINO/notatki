@@ -17,7 +17,7 @@ https://www.google.pl/[Google]
  
 ==== Mozemy tworzyc punktory z pomoca gwiazdki. Aby zatytulowac liste nalezy tytul poprzedzic kropka. Przyklad:
  
- .Owoce
+ . Owoce
  * banan
  * jablko
 
