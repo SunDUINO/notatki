@@ -2,12 +2,12 @@
 
 Naglowek tworzymy znakiem = i musi byc on na poczatku dokumentu. Im wiecej znakow, tym wyzszego rzedu jest naglowek. Przyklad powyzej.
 
-== Pogrubiamy tekst umieszczajac go w gwiazdkach, a kursywe uzyskujemy dzieki podkreslnikom. Przyklad:
+==== Pogrubiamy tekst umieszczajac go w gwiazdkach, a kursywe uzyskujemy dzieki podkreslnikom. Przyklad:
 
 _Tekst pochylony_
 *Tekst pogrubiony*
 
-=== Odnosniki tworzymy wklejajac link, a po nim w kwadratowym nawiasie mozemy podac nazwe. Przyklad:
+==== Odnosniki tworzymy wklejajac link, a po nim w kwadratowym nawiasie mozemy podac nazwe. Przyklad:
 
 https://www.google.pl/[Google]
 
