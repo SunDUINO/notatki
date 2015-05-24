@@ -15,7 +15,6 @@ https://www.google.pl/[Google]
 
  To zdanie jest poprzedzone spacja.
 
-==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek.
-==== Na przyklad:
+==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Na przyklad:
 
 WARNING: Wolpertingers are known to nest in server racks.
