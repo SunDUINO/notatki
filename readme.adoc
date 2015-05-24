@@ -15,8 +15,9 @@ https://www.google.pl/[Google]
 
  To zdanie jest poprzedzone spacja.
  
-==== Mozemy tworzyc punktory z pomoca gwiazdki. Przyklad:
+==== Mozemy tworzyc punktory z pomoca gwiazdki. Aby zatytulowac liste nalezy tytul poprzedzic kropka. Przyklad:
  
+ .Owoce
  * banan
  * jablko
 
