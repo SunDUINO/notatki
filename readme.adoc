@@ -23,4 +23,4 @@ https://www.google.pl/[Google]
 
 ==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Na przyklad:
 
-Comp:: Wolpertingers are known to nest in server racks.
+Komputer:: Maszyna elektroniczna przeznaczona do przetwarzania informacji.
