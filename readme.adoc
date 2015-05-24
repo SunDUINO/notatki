@@ -1,6 +1,6 @@
 = Przykladowe mozliwosci AsciiDoc
 
-Naglowek tworzymy znakiem =. Przyklad:
+Naglowek tworzymy znakiem i musi byc on na poczatku dokumentu. Przyklad powyzej.
 
-Zwykly tekst +
-= Naglowek
+-------------------------------
+
