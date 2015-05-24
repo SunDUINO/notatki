@@ -2,5 +2,5 @@
 
 Naglowek tworzymy znakiem =. Przyklad:
 
-Zwykly tekst+
+Zwykly tekst +
 = Naglowek
