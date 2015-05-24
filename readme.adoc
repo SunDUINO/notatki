@@ -1,1 +1,3 @@
 = Przykladowe mozliwosci AsciiDoc
+== Przykladowe mozliwosci AsciiDoc
+
