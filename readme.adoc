@@ -11,7 +11,9 @@ Odnosniki tworzymy wklejajac link, a po nim w kwadrtarowym nawiasie mozemy podac
 
 https://www.google.pl/[Google]
 
- asdasdasdads
+Jezeli zdanie poprzedzimy spacja, to zostanie ono wyroznione. Przyklad:
+
+ To zdanie jest poprzedzone spacja.
 
 W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek.
 Na przyklad:
