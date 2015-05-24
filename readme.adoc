@@ -2,6 +2,11 @@
 
 Naglowek tworzymy znakiem i musi byc on na poczatku dokumentu. Przyklad powyzej.
 
+Pogrubiamy tekst umieszczajac go w gwiazdkach, a kursywe uzyskujemy dzieki podkreslnikom. Przyklad:
+
+_Tekst pochylony_
+*Tekst pogrubiony*
+
 W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek.
 Na przyklad:
 
