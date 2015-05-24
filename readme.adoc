@@ -17,9 +17,9 @@ https://www.google.pl/[Google]
  
 ==== Mozemy tworzyc punktory z pomoca gwiazdki. Aby zatytulowac liste nalezy tytul poprzedzic kropka. Mozna tez zwiekszac wciecie iloscia gwiazdek. Przyklad:
  
- .Owoce
- * banan
- ** jablko
+.Owoce
+* banan
+** jablko
 
 ==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Na przyklad:
 
