@@ -15,11 +15,11 @@ https://www.google.pl/[Google]
 
  To zdanie jest poprzedzone spacja.
  
-==== Mozemy tworzyc punktory z pomoca gwiazdki. Aby zatytulowac liste nalezy tytul poprzedzic kropka. Przyklad:
+==== Mozemy tworzyc punktory z pomoca gwiazdki. Aby zatytulowac liste nalezy tytul poprzedzic kropka. Mozna tez zwiekszac wciecie iloscia gwiazdek. Przyklad:
  
- . Owoce
+ .Owoce
  * banan
- * jablko
+ ** jablko
 
 ==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Na przyklad:
 
