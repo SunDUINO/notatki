@@ -7,7 +7,8 @@ Pogrubiamy tekst umieszczajac go w gwiazdkach, a kursywe uzyskujemy dzieki podkr
 _Tekst pochylony_
 *Tekst pogrubiony*
 
-Odnosniki tworzymy wklejajac link, a po nim w kwadrtarowym nawiasie mozemy podac nazwe. Przyklad: 
+Odnosniki tworzymy wklejajac link, a po nim w kwadrtarowym nawiasie mozemy podac nazwe. Przyklad:
+
 https://www.google.pl/[Google]
 
 W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek.
