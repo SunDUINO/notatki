@@ -13,8 +13,6 @@ https://www.google.pl/[Google]
 
 ==== Jezeli zdanie poprzedzimy spacja, to zostanie ono wyroznione. Przyklad:
 
--------
-
  To zdanie jest poprzedzone spacja.
  
 ==== Mozemy tworzyc punktory z pomoca gwiazdki. Aby zatytulowac liste nalezy tytul poprzedzic kropka. Mozna tez zwiekszac wciecie iloscia gwiazdek. Przyklad:
