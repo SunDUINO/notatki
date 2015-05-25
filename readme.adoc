@@ -8,7 +8,6 @@ _Tekst pochylony_
 *Tekst pogrubiony*
 
 ==== Odnosniki tworzymy wklejajac link, a po nim w kwadratowym nawiasie mozemy podac nazwe. Przyklad:
-------------------------------------------------------------------------------------------------------
 
 https://www.google.pl/[Google]
 
