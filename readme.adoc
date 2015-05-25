@@ -21,9 +21,9 @@ https://www.google.pl/[Google]
 * banan
 ** jablko
 
-==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Po slowie napisanym wielkimi literami (warning, tip itd.) stawiamy dwa dwukropki. Na przyklad:
+==== W AsciiDoc mozemy stosowac specjalne wyroznienia tekstu, w stylu informacji, ostrzezen, wskazowek. Po slowie napisanym wielkimi literami (warning, tip itd.) stawiamy dwukropek. Na przyklad:
 
-WARNING:: Uwazaj na...
+WARNING: Uwazaj na...
 
 ==== W podobny sposob mozemy tworzyc strukture w stylu definicji, z tym, ze slowo, ktore definiujemy piszemy malymi literami
 
