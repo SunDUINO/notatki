@@ -29,4 +29,6 @@ WARNING: Uwazaj na...
 
 Komputer:: Elektroniczna maszyna przeznaczona do przetwarzana informacji.
 
+==== Obrazki wstawiamy poprzedadzajac link slowem image i dwoma dwukropkami, a po linki wymagany jest nawias kwadratory z tekstem (moze byc pusty). Przyklad:
 
+image::http://vitamin-e.laclinique.biz/sites/default/files/pictures/blog/windows2006.png[logo windows]
