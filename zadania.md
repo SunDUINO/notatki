@@ -2,6 +2,8 @@
 
 **2.1 Oblicz obwod: a)** trojkata rownobocznego, **b)** kwadratu, **c)** prostokata - gdy znane sa ich boki, **d)** okregu, gdy znany jest jego promien.
 
+-----------------
+
 **2.2 Oblicz pole powierzchni: a)** dowolnego trojkata, **b)** kwadratu, **c)** prostokata, **d)** kola. Dane sa odpowiednio boki lub promien.
 
 **2.3 Oblicz objetosc: a)** szescianu, **b)** prostopadloscianu, **c)** stozka, **d)** kuli. Dane sa odpowiednio boki lub promien.
